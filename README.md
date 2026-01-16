@@ -29,9 +29,8 @@ cd flask-mysql-app
 docker compose up --build
 
 visit: http://localhost:5000
+```
 
-## Architecture
+## Architecture Diagram
+![Flask MySQL Docker Architecture](diagram/architecture.png)
 
-<p align="center">
-  <img src="diagram/architecture.png" alt="Flask MySQL Docker Architecture" width="700">
-</p>
