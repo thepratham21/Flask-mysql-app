@@ -32,4 +32,6 @@ visit: http://localhost:5000
 
 ## Architecture
 
-![Architecture Diagram](diagrams/architecture.png)
+<p align="center">
+  <img src="diagram/architecture.png" alt="Flask MySQL Docker Architecture" width="700">
+</p>
