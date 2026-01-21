@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   app:
-    build: .
+    image: thepratham21/flask-mysql-app-image
     container_name: flask_app
     ports:
       - "5000:5000"
